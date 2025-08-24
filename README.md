@@ -18,6 +18,7 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 * [x] List anything else that you can get done to improve the app functionality!
+
 This app could be improved by adding a top navigation bar with dropdown menus for different sections, such as game stats and game groups.
 
 ## Video Walkthrough
